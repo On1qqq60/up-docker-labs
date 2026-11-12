@@ -1,0 +1,15 @@
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+target/
+build/
+08-dev-prod/postgres/
+*.log
+.DS_Store
+report-figures/profile*/
+report-figures/profile2*/
+report-figures/pma-clean/
+report-figures/fig-2-pma*.png
+report-figures/hello.txt
